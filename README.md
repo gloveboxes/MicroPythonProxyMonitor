@@ -8,4 +8,4 @@ Code for the network manager can be found in the [Pimoroni MicroPython Commmon f
 
 ## Notes
 
-The app forces garbage collection after most operations. This is required for requests.get https calls which use and fragment the limited memoory on the micro controller.
+The app forces garbage collection after most operations. This is required for requests.get https calls which use and fragment the limited memory on the microcontroller.
